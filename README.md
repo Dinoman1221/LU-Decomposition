@@ -49,8 +49,10 @@ print(x)
 ```
 
 ## Output:
+(i) To find the L and U matrix
 ![image](https://github.com/user-attachments/assets/cc92e14c-bc86-4258-a342-54813d906603)
 
+(ii) To find the LU Decomposition of a matrix
 ![image](https://github.com/user-attachments/assets/aee0fb91-e0f5-48ca-b521-3045fe85ceb0)
 
 
